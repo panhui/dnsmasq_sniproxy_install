@@ -48,13 +48,6 @@ level3.net
 llnwd.net
 edgecastcdn.net
 cloudfront.net
-netflix.com
-netflix.net
-nflximg.com
-nflximg.net
-nflxvideo.net
-nflxso.net
-nflxext.com
 hulu.com
 huluim.com
 hbo.com
