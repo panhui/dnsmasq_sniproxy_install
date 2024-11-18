@@ -1,6 +1,5 @@
 youtube.com
 gstatic.com
-googlevideo.com
 ytimg.com
 youtubei.googleapis.com
 googleapis.com
